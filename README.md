@@ -30,7 +30,7 @@ UUID v5 return a UUID generated using SHA1 and a given name within a namespace.
 
 Source tracking available at
 
-    http://github.com/avtobiff/erlang-uuid
+    https://github.com/prokopiy/lfe-uuid
 
 ## Build [&#x219F;](#table-of-contents)
 
