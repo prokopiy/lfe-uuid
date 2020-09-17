@@ -1,4 +1,4 @@
-{application, 'uuid',
+{application, 'lfe-uuid',
  [{description, "An LFE library"},
   {vsn, git},
   {registered, []},
