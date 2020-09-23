@@ -29,7 +29,7 @@
         D))
 
 (defun to_binary
-    ([UuidStr] (when (is_list UuidStr)) 
+    ([UuidStr] (when (is_list UuidStr))
         (case (length UuidStr)
             (32 (when) (to_binary 'simple UuidStr))
             (36 (when) (to_binary 'pretty UuidStr))))
