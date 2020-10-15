@@ -1,10 +1,12 @@
 # lfe-uuid
 
-[![Build Status][travis badge]][travis]
+[![Build Status][gh-actions-badge]][gh-actions]
 [![LFE Versions][lfe badge]][lfe]
 [![Erlang Versions][erlang badge]][version]
 [![Tag][github tags badge]][github tags]
 [![Downloads][hex downloads]][hex package]
+
+
 
 [![Project Logo][logo]][logo-large]
 
@@ -65,15 +67,15 @@ Copyright © 2020, Prokopiy N. Stelmash <prokopiy@inbox.ru>.
 [logo]: https://avatars1.githubusercontent.com/u/3434967?s=250
 [logo-large]: https://avatars1.githubusercontent.com/u/3434967
 [github]: https://github.com/prokopiy/lfe-uuid
-[gitlab]: https://gitlab.com/ORG/lfe-uuid
-[travis]: https://travis-ci.org/ORG/lfe-uuid
-[travis badge]: https://img.shields.io/travis/ORG/lfe-uuid.svg
-[gh-actions-badge]: https://github.com/ORG/lfe-uuid/workflows/Go/badge.svg
-[gh-actions]: https://github.com/ORG/lfe-uuid/actions
+[gitlab]: https://gitlab.com/prokopiy/lfe-uuid
+[travis]: https://travis-ci.org/prokopiy/lfe-uuid
+[travis badge]: https://img.shields.io/travis/prokopiy/lfe-uuid.svg
+[gh-actions-badge]: https://github.com/prokopiy/lfe-uuid/workflows/Erlang%20CI/badge.svg
+[gh-actions]: https://github.com/prokopiy/lfe-uuid/actions
 [lfe]: https://github.com/rvirding/lfe
 [lfe badge]: https://img.shields.io/badge/lfe-1.3.0-blue.svg
 [erlang badge]: https://img.shields.io/badge/erlang-19%20to%2023-blue.svg
-[version]: https://github.com/ORG/lfe-uuid/blob/master/.travis.yml
+[version]: https://github.com/prokopiy/lfe-uuid/blob/master/.travis.yml
 [github tags]: https://github.com/prokopiy/lfe-uuid/tags
 [github tags badge]: https://img.shields.io/github/tag/prokopiy/lfe-uuid.svg
 [github downloads]: https://img.shields.io/github/downloads/ORG/lfe-uuid/total.svg
