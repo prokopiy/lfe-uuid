@@ -70,7 +70,7 @@ Copyright © 2020, Prokopiy N. Stelmash <prokopiy@inbox.ru>.
 [gitlab]: https://gitlab.com/prokopiy/lfe-uuid
 [travis]: https://travis-ci.org/prokopiy/lfe-uuid
 [travis badge]: https://img.shields.io/travis/prokopiy/lfe-uuid.svg
-[gh-actions-badge]: https://github.com/prokopiy/lfe-uuid/workflows/Erlang%20CI/badge.svg
+[gh-actions-badge]: https://github.com/prokopiy/lfe-uuid/workflows/ci/cd/badge.svg
 [gh-actions]: https://github.com/prokopiy/lfe-uuid/actions
 [lfe]: https://github.com/rvirding/lfe
 [lfe badge]: https://img.shields.io/badge/lfe-1.3.0-blue.svg
