@@ -41,7 +41,7 @@ $ rebar3 lfe repl
 # Tests [&#x219F;](#table-of-contents)
 
 ```shell
-$ rebar3 lfe test
+$ rebar3 do eunit, ct
 ```
 
 ## Usage [&#x219F;](#table-of-contents)
