@@ -74,7 +74,7 @@ Copyright © 2020, Prokopiy N. Stelmash <prokopiy@inbox.ru>.
 [gh-actions]: https://github.com/prokopiy/lfe-uuid/actions
 [lfe]: https://github.com/rvirding/lfe
 [lfe badge]: https://img.shields.io/badge/lfe-1.3.0-blue.svg
-[erlang badge]: https://img.shields.io/badge/erlang-19%20to%2023-blue.svg
+[erlang badge]: https://img.shields.io/badge/erlang-21%20to%2023-blue.svg
 [version]: https://github.com/prokopiy/lfe-uuid/blob/master/.travis.yml
 [github tags]: https://github.com/prokopiy/lfe-uuid/tags
 [github tags badge]: https://img.shields.io/github/tag/prokopiy/lfe-uuid.svg
