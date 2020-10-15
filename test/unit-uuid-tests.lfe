@@ -17,4 +17,4 @@
 
 
 (deftest is-vvv
-  (is-equal 5 (+ 2 2)))
+  (is-equal 4 (+ 2 2)))
