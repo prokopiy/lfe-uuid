@@ -24,6 +24,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Update rebar3
+      run: rebar3 local upgrade
     - name: Compile
       run: rebar3 compile
     - name: Run eunit/common tests
