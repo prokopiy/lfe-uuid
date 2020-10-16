@@ -1,6 +1,6 @@
 ; https://github.com/lfex/ltest
 
-(defmodule unit-uuid-tests
+(defmodule uuid-tests
   (behaviour ltest-unit)
   (export all))
 
