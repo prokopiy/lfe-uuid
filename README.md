@@ -43,7 +43,9 @@ $ rebar3 lfe repl
 ```shell
 $ rebar3 do eunit, ct
 ```
-
+```shell
+$ rebar3 lfe ltest
+```
 ## Usage [&#x219F;](#table-of-contents)
 
 TBD
@@ -66,7 +68,7 @@ Copyright © 2020, Prokopiy N. Stelmash <prokopiy@inbox.ru>.
 [gh-actions]: https://github.com/prokopiy/lfe-uuid/actions
 [lfe]: https://github.com/rvirding/lfe
 [lfe badge]: https://img.shields.io/badge/lfe-1.3.0-blue.svg
-[erlang badge]: https://img.shields.io/badge/erlang-21%20to%2023-blue.svg
+[erlang badge]: https://img.shields.io/badge/erlang-20%20to%2023-blue.svg
 [version]: https://github.com/prokopiy/lfe-uuid/blob/master/.travis.yml
 [github tags]: https://github.com/prokopiy/lfe-uuid/tags
 [github tags badge]: https://img.shields.io/github/tag/prokopiy/lfe-uuid.svg
