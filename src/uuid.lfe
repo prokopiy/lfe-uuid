@@ -1,8 +1,7 @@
 (defmodule uuid
     (export (v3 2) (v4 0) (v5 2))
     (export (to-string 1) (to-binary 1))
-    (export (version 1) (is-v3 1) (is-v4 1) (is-v5 1))
-    (export all))
+    (export (version 1) (is-v3 1) (is-v4 1) (is-v5 1)))
 
 
 (defun v4 []
